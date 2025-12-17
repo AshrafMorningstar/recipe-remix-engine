@@ -1,34 +1,55 @@
+﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
 # Recipe Remix Engine
 
-🚀 Ingredient-based recipe matching logic with fuzzy search.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/recipe-remix-engine)
 
-## 🔍 Why this project exists
+ðŸš€ Ingredient-based recipe matching logic with fuzzy search.
+
+## ðŸ” Why this project exists
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/recipe-remix-engine)
 A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
 
-## ✨ Features
-- 🚀 Production-ready architecture
-- 🎨 Premium UI/UX design system
-- ♿ WCAG AA Accessible
-- 📱 Fully Responsive
-- ⚡ Optimized Performance
+## âœ¨ Features
 
-## 🧠 Architecture
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/recipe-remix-engine)
+- ðŸš€ Production-ready architecture
+- ðŸŽ¨ Premium UI/UX design system
+- â™¿ WCAG AA Accessible
+- ðŸ“± Fully Responsive
+- âš¡ Optimized Performance
+
+## ðŸ§  Architecture
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/recipe-remix-engine)
 Built with clean separation of concerns and modern design patterns.
 
-## 🚀 Live Demo
+## ðŸš€ Live Demo
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/recipe-remix-engine)
 [Deployment Link Placeholder]
 
-## 📦 Installation
+## ðŸ“¦ Installation
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/recipe-remix-engine)
 ```bash
 npm install
 npm run dev
 ```
 
-## 🛠 Tech Stack
-JavaScript Algorithms • Fuzzy Matching
+## ðŸ›  Tech Stack
 
-## 📈 SEO Keywords
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/recipe-remix-engine)
+JavaScript Algorithms â€¢ Fuzzy Matching
+
+## ðŸ“ˆ SEO Keywords
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/recipe-remix-engine)
 recipe app, food matching, cooking app
 
-## 📄 License
+## ðŸ“„ License
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/recipe-remix-engine)
 MIT
+
+
